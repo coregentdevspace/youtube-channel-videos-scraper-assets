@@ -1,0 +1,19 @@
+{
+  "channelRefs": [
+    "https://www.youtube.com/@graceleungyl"
+  ],
+  "debug": false,
+  "dedupeAcrossChannels": true,
+  "includeContentDetails": true,
+  "includeDescription": true,
+  "includeLive": true,
+  "includeShorts": true,
+  "includeStatistics": true,
+  "includeTags": true,
+  "includeThumbnails": true,
+  "maxVideosPerChannel": 200,
+  "sortBy": "newest",
+  "maxConcurrency": 10,
+  "maxRetries": 3,
+  "minDelayMs": 0
+}

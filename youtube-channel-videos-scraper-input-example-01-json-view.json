@@ -1,0 +1,19 @@
+{
+  "channelRefs": [
+    "@mkbhd"
+  ],
+  "debug": false,
+  "dedupeAcrossChannels": true,
+  "includeContentDetails": true,
+  "includeDescription": false,
+  "includeLive": false,
+  "includeShorts": true,
+  "includeStatistics": true,
+  "includeTags": false,
+  "includeThumbnails": true,
+  "maxVideosPerChannel": 200,
+  "sortBy": "newest",
+  "maxConcurrency": 10,
+  "maxRetries": 3,
+  "minDelayMs": 0
+}
