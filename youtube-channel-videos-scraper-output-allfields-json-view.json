@@ -1,0 +1,63 @@
+{
+  "retrievedAt": "2026-03-08T05:56:36.384Z",
+  "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+  "channelTitle": "Marques Brownlee",
+  "channelHandle": "@mkbhd",
+  "channelUrl": "https://www.youtube.com/@mkbhd",
+  "videoId": "nfHRMqqO578",
+  "videoUrl": "https://www.youtube.com/watch?v=nfHRMqqO578",
+  "title": "Samsung Galaxy S26 Ultra Review: There's a Catch",
+  "publishedAt": "2026-03-06T20:14:58Z",
+  "publishDate": "2026-03-06",
+  "duration": "PT12M36S",
+  "durationSeconds": 756,
+  "isShorts": false,
+  "isLive": false,
+  "viewCount": 2026568,
+  "likeCount": 75496,
+  "commentCount": 4968,
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/nfHRMqqO578/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/nfHRMqqO578/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/nfHRMqqO578/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    },
+    "standard": {
+      "url": "https://i.ytimg.com/vi/nfHRMqqO578/sddefault.jpg",
+      "width": 640,
+      "height": 480
+    },
+    "maxres": {
+      "url": "https://i.ytimg.com/vi/nfHRMqqO578/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "description": "The price is the most \"ultra\" thing about the S26 Ultra\n\nMKBHD Merch: http://MKBHD.com\n\nSamsung Galaxy S26 Ultra: https://geni.us/6Bh61 (Affiliate Link)\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Samsung for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+  "tags": [
+    "S26 Ultra",
+    "S26",
+    "Galaxy S26 Ultra",
+    "Samsung",
+    "Samsung Galaxy S26 Ultra",
+    "MKBHD"
+  ],
+  "definition": "hd",
+  "caption": "true",
+  "licensedContent": true,
+  "topicCategories": [
+    "https://en.wikipedia.org/wiki/Technology"
+  ],
+  "source": "api",
+  "runId": "JxebN0GRa9nkLuhDa"
+}
